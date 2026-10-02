@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">خلفية فيديو</string>
+    <string name="launcher_name">الشاشة الرئيسية</string>
+    <string name="set_home">تعيين كتطبيق رئيسي</string>
+    <string name="home_hint">لتغيير شكل وصور الأيقونات فعلياً في الشاشة الرئيسية، اجعل هذا التطبيق هو «التطبيق الرئيسي» الافتراضي.</string>
+    <string name="global_settings">إعداد عام</string>
+    <string name="refresh">تحديث</string>
+    <string name="edit_icon">تخصيص الأيقونة</string>
+    <string name="shape">الشكل</string>
+    <string name="corner">استدارة الحواف</string>
+    <string name="icon_size">أبعاد الأيقونة</string>
+    <string name="pick_image">اختيار صورة</string>
+    <string name="remove_image">إزالة الصورة</string>
+    <string name="apply_all">تطبيق على كل الأيقونات</string>
+    <string name="save">حفظ</string>
+    <string name="cancel">إلغاء</string>
+    <string name="reset">إعادة تعيين</string>
+    <string name="preview">معاينة</string>
+    <string name="open_editor">تخصيص الأيقونات</string>
+</resources>
